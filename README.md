@@ -13,6 +13,8 @@ Copy the .sample.env file into a newly created file in the same location and cal
 
 # To reproduce the bug ⚠️
 `docker compose -f docker-compose.yml build`
+
 `docker compose -f docker-compose.yml up`
+
 The video will be in the volume 
 
